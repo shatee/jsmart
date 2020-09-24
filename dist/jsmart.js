@@ -6,7 +6,7 @@
  *                      Max Miroshnikov <miroshnikov at gmail dot com>
  * https://opensource.org/licenses/MIT
  *
- * Date: 2018-10-17T13:13Z
+ * Date: 2020-09-24T00:51Z
  */
 (function (factory) {
   'use strict'
