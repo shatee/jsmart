@@ -1,9 +1,9 @@
 {
-  "name": "jsmart",
+  "name": "@shatee/jsmart",
   "title": "jSmart",
   "description": "jSmart is javascript templating engine based on PHP Smarty Template Engine.",
   "main": "dist/jsmart.js",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "url": "https://github.com/umakantp/jsmart/",
   "keywords": [
     "jsmart",
@@ -13,7 +13,7 @@
     "templates",
     "engine"
   ],
-  "author": "Umakant Patil <me@umakantpatil.com>",
+  "author": "shatee",
   "contributors": [
     {
       "name": "Umakant Patil",

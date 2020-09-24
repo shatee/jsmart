@@ -1,3 +1,5 @@
+forked from [umakantp/jsmart](https://github.com/umakantp/jsmart)
+
 jSmart - Smarty template engine in JavaScript
 ======
 [![Build Status](https://travis-ci.org/umakantp/jsmart.png?branch=master)](https://travis-ci.org/umakantp/jsmart)
